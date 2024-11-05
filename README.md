@@ -18,16 +18,16 @@ This Java project provides a utility to calculate the sums of even and odd numbe
 ### Steps to Compile and Run
 1. **Clone the repository** (if applicable):
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/lwiesing/EvenAndOddSum.git
+   cd EvenAndOddSum
 
 2. **Compile the program:**
     ```bash 
-    javac SumEvenOdd.java
+    javac EvenAndOddSum.java
 
 3. **Run the program:**
    ```bash
-   java SumEvenOdd
+   java EvenAndOddSum
 
 ## Usage
 The program calculates the sums of even and odd numbers and adjusts the even sum until it exceeds the odd sum.
@@ -54,8 +54,8 @@ Contributions are welcome! If you would like to contribute to this project, plea
 
 ## Citation Hint
 #### If you use this software in your research or projects, please cite it as follows:
-    Even and Odd Sum Calculator. (2024). Retrieved from <repository-url>
+    Even and Odd Sum Calculator. (2024). Retrieved from https://github.com/lwiesing/EvenAndOddSum.git
 
 ## License
-This project is licensed under the MIT License. For more details have a look at the [LICENSE.txt](LICENSE.txt) 
+This project is licensed under the MIT License. For more details have a look at the [LICENSES file](LICENSES/MIT.txt) 
 
