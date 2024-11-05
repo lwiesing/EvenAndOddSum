@@ -7,7 +7,7 @@ SPDX-License-Identifier: MIT
 
 # Even and Odd Sum Calculator
 
-## Project Description
+## Purpose
 This Java project provides a utility to calculate the sums of even and odd numbers in a given array of integers. It includes a method to balance the even sum against the odd sum, ensuring the even sum exceeds the odd sum by adjusting values incrementally.
 
 ## Installation Instructions
